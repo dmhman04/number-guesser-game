@@ -3,7 +3,7 @@
 This is a project to power a human versus computer guessing game. 
 
 # How to use
-When you click on the link, a website will appear like this. Then, type in a random number from 1-20 and click "Check!"
+When you run the file index.html, a website will appear like this. Then, type in a random number from 1-20 and click "Check!"
 ![game](https://user-images.githubusercontent.com/87378628/135094959-40ea9e71-5d1d-4b14-b71a-f8f68837cf20.png)
 
 
